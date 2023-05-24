@@ -19,8 +19,7 @@ The Student Management System is a Python application built using PyQt6 and MySQ
 1. Navigate to the project directory.
 2. Open a terminal or command prompt.
 3. Run the following command to start the Student Management System:
-
-
+   python main.py
 4. The application window will open, displaying a table with student records.
 5. Use the menu options, toolbar buttons, or right-click context menu to perform various actions such as adding, searching, editing, or deleting student records.
 6. Follow the on-screen instructions and fill in the required fields to perform the desired action.
